@@ -15,14 +15,14 @@ Bem vindos ao meu portfólio no GitHub, meu nome é Fellipe Souza Maia, tenho 23
         <img 
             alt="instagram" 
             title="Meu Instagram" 
-            src="https://img.shields.io/badge/Instagram-@fellipe_sm-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            src="https://img.shields.io/badge/@fellipe_sm-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
     <a href="fellipesouzamaia1@gmail.com">
         <img 
             alt="email" 
             title="Contato por Email" 
-            src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
 </p>
