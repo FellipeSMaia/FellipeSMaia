@@ -2,10 +2,17 @@
 
 ## **`Desenvolvedor FullStack Júnior`**
 
-Bem vindos ao meu portfólio no GitHub, meu nome é Fellipe Souza Maia, tenho 23 e atuo na área de Desenvolvimento de sistema Web e Análista de Software, focado atualmente em Desenvolvimento FullStack.
+Bem vindos ao meu portfólio, Meu nome é Fellipe Souza Maia, tenho 23 anos e atuo na área de Desenvolvimento Full Stack de Sistemas Web, com foco na criação de soluções eficientes, e bem estruturadas. Também possuo experiência em Análise de Software, contribuindo desde o levantamento de requisitos até a implementação das aplicações.
 
-- Cursando Análise e Desenvolvimento de Sistemas
-- Diretor Administrativo da empresa EyeTech Junior
+Atualmente, estou:
+
+🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS)
+
+💼 Atuei por 2 anos em uma Empresa Júnior (EJ), onde adquiri experiência prática no desenvolvimento de sistemas
+
+📊 Fui Diretor Administrativo, desenvolvendo habilidades em liderança, organização, gestão de processos e trabalho em equipe
+
+Meu foco atual é consolidar minha carreira como Desenvolvedor Full Stack, buscando constante evolução técnica e profissional.
 
 <br/>
 <br/>
